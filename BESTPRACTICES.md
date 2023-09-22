@@ -8,11 +8,11 @@ Use descriptive and meaningful names for your Folder. Folder names should be in 
 
  
 
-Page Name: 
+Page Folder Name: 
 
-Use descriptive and meaningful names for your Page. Page names should be in kebab-case (e.g., my-page) 
+Use descriptive and meaningful names for your Page Folder. Page folder names should be in kebab-case (e.g., my-page) 
 
-Note: There should be only one main Component in page  
+Note: There should be only one main Component in page  and the name should be suffix with Page i.e SignUpPage
 
 Component Name:  
 
@@ -20,7 +20,6 @@ Use descriptive and meaningful names for your components. Component names should
 Component file name is index.tsx
 
 
- 
 
 Variable,css Class and Function Name: 
 
