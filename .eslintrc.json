@@ -46,6 +46,7 @@
     "react/no-array-index-key": "warn",
     "react/jsx-key": "warn",
     "@typescript-eslint/no-unused-vars": "warn",
-    "no-console": "warn"
+    "no-console": "warn",
+    "@typescript-eslint/no-explicit-any": "off"
   }
 }
